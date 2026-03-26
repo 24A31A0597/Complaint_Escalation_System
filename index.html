@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>ComplaintIQ — Escalation Tracking System</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Syne:wght@400;600;700;800&family=DM+Mono:wght@300;400;500&family=Instrument+Sans:wght@400;500;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles/global.css"/>
+  <link rel="stylesheet" href="styles/layout.css"/>
+</head>
+<body>
+  <div id="app">
+    <aside id="sidebar"></aside>
+    <main id="main-content">
+      <div id="page-header"></div>
+      <div id="page-body">
+        <div id="view-dashboard" class="view active"></div>
+        <div id="view-complaints" class="view"></div>
+        <div id="view-submit" class="view"></div>
+        <div id="view-escalation" class="view"></div>
+      </div>
+    </main>
+    <div id="toast-container"></div>
+    <div id="modal-container"></div>
+  </div>
+  <script src="js/data.js"></script>
+  <script src="js/utils.js"></script>
+  <script src="components/sidebar.js"></script>
+  <script src="components/header.js"></script>
+  <script src="components/dashboard.js"></script>
+  <script src="components/complaints.js"></script>
+  <script src="components/submit.js"></script>
+  <script src="components/escalation.js"></script>
+  <script src="components/modal.js"></script>
+  <script src="components/toast.js"></script>
+  <script src="js/router.js"></script>
+  <script src="js/app.js"></script>
+</body>
+</html>
