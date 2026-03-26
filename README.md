@@ -14,23 +14,24 @@ The platform combines real-time analytics, SLA-based escalation, and interactive
 
 ## ✨ Key Features
 
-✔️ Real-time complaint tracking and analytics
-✔️ Multi-level escalation system (L1 → L4)
-✔️ SLA-based monitoring and alerts
-✔️ Advanced filtering and search functionality
-✔️ Interactive dashboards with charts and insights
-✔️ Priority-based complaint handling (Low, Medium, High, Critical)
+✔️ Real-time complaint tracking and analytics  
+✔️ Multi-level escalation system (L1 → L4)  
+✔️ SLA-based monitoring and alerts  
+✔️ Advanced filtering and search functionality  
+✔️ Interactive dashboards with charts and insights  
+✔️ Priority-based complaint handling (Low, Medium, High, Critical)  
 ✔️ Clean and responsive UI design
 
 ---
 
 ## 🚨 Escalation Levels
 
-Level| Role| SLA| Description
-L1| Support| 24 Hours| Initial complaint handling
-L2| Supervisor| 48 Hours| Escalated if unresolved
-L3| Manager| 72 Hours| High-priority escalation
-L4| Executive| Critical| Immediate attention required
+| Level | Role        | SLA        | Description                  |
+|-------|------------|------------|------------------------------|
+| 🟢 L1 | Support    | 24 Hours   | Initial complaint handling   |
+| 🟡 L2 | Supervisor | 48 Hours   | Escalated if unresolved      |
+| 🟠 L3 | Manager    | 72 Hours   | High-priority escalation     |
+| 🔴 L4 | Executive  | Critical   | Immediate attention required |
 
 ---
 
@@ -67,20 +68,23 @@ L4| Executive| Critical| Immediate attention required
 
 ---
 
-## 📂 Project Structure
+## 📁 Project Structure
 
+```
 Complaint_Escalation_System/
-│── css/
-│── js/
-│── images/
-│── index.html
-│── README.md
+│
+├── css/
+├── js/
+├── images/
+├── index.html
+└── README.md
+```
 
 ---
 
 ## 🚀 Getting Started
 
-git clone https://github.com/your-username/Complaint_Escalation_System.git
+git clone https://github.com/24A31A0597/Complaint_Escalation_System.git
 cd Complaint_Escalation_System
 
 Open "index.html" in your browser to run the project.
@@ -111,9 +115,9 @@ If you like this project, give it a ⭐ on GitHub and support the development!
 
 ## 👩‍💻 Author
 
-Mounika Pothula
-🎓 CSE Student @ Pragati Engineering College
-🚀 Aspiring Software Engineer & AI Enthusiast
+- Mounika Pothula 📍 CSE Student @ Pragati Engineering College
+- 🎯 Aspiring Data Engineer & AI Enthusiast
+- 🔗 GitHub Profile[https://github.com/24A31A0597]
 
 ---
 
