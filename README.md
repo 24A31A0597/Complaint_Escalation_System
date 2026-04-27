@@ -113,9 +113,9 @@ If you like this project, give it a ⭐ on GitHub and support the development!
 
 ---
 
-## 👩‍💻 Author
+## 👩‍💻 Authors
 
-- Mounika Pothula 📍 CSE Student @ Pragati Engineering College
+- Mounika Pothula,Sadwika,Aditya ,Shankar Teja📍 CSE Student @ Pragati Engineering College
 - 🎯 Aspiring Data Engineer & AI Enthusiast
 - 🔗 GitHub Profile[https://github.com/24A31A0597]
 
